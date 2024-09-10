@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: aqua;
+}
+
+.heading{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 10rem;
+    padding-top: 100px;
+}
+
+.div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+
+.btn1{
+    padding: 30px;
+    font-size: 4rem;
+    
+}
+
+.btn2{
+    padding: 30px;
+    font-size: 4rem;
+}
